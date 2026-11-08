@@ -1,0 +1,11 @@
+                     Air temperature  ...  Machine failure
+Air temperature             1.000000  ...         0.082556
+Process temperature         0.876107  ...         0.035946
+Rotational speed            0.022670  ...        -0.044188
+Torque                     -0.013778  ...         0.191321
+Tool wear                   0.013853  ...         0.105448
+Machine failure             0.082556  ...         1.000000
+
+[6 rows x 6 columns]
+
+Gráfica guardada como paso4_correlacion.png

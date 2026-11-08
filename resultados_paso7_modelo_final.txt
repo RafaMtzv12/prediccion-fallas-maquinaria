@@ -1,0 +1,17 @@
+Accuracy 0.992 | Precision 0.948 | Recall 0.809 | F1 0.873
+Matriz de confusion:
+[[1929    3]
+ [  13   55]]
+
+Importancia de variables:
+Rotational speed       0.208
+power                  0.182
+Torque                 0.176
+Tool wear              0.148
+wear_torque            0.112
+temp_diff              0.092
+Air temperature        0.042
+Process temperature    0.030
+Type_L                 0.004
+Type_M                 0.004
+Type_H                 0.002

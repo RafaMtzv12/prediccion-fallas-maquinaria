@@ -1,0 +1,13 @@
+ Velocidad  Torque  Desgaste      Real  Prob_falla_% Prediccion Acierto
+      1227    68.2       187     Falla          86.5      Falla      SI
+      1348    58.8       202     Falla          84.0      Falla      SI
+      1373    56.7       203     Falla          88.0      Falla      SI
+      1371    54.6       112     Falla          35.0  Sin falla      NO
+      1416    38.2       198     Falla           0.0  Sin falla      NO
+      1573    39.7       162 Sin falla           0.0  Sin falla      SI
+      1546    35.5        70 Sin falla           0.0  Sin falla      SI
+      1518    36.4        53 Sin falla           0.0  Sin falla      SI
+      1946    21.1       112 Sin falla           0.0  Sin falla      SI
+      1480    50.7         2 Sin falla           0.0  Sin falla      SI
+
+Aciertos: 8 de 10

@@ -1,0 +1,16 @@
+VALIDACION CRUZADA (5 pliegues)
+              Variables              Modelo  Precision  Recall    F1  F1_desv
+   Variables originales Regresion Logistica      0.136   0.805 0.232    0.005
+   Variables originales       Random Forest      0.741   0.664 0.699    0.040
+   Variables originales                 SVM      0.261   0.876 0.402    0.017
+Con variables derivadas Regresion Logistica      0.164   0.850 0.275    0.012
+Con variables derivadas       Random Forest      0.895   0.832 0.861    0.020
+Con variables derivadas                 SVM      0.293   0.861 0.438    0.019
+
+UMBRAL DE DECISION (Random Forest, variables derivadas)
+ Umbral  Precision  Recall    F1  Fallas_perdidas  Falsas_alarmas
+    0.2      0.542   0.876 0.670               42             251
+    0.3      0.700   0.853 0.769               50             124
+    0.4      0.808   0.847 0.827               52              68
+    0.5      0.892   0.832 0.861               57              34
+    0.6      0.941   0.802 0.866               67              17

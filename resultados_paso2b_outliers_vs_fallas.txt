@@ -1,0 +1,9 @@
+=== Rotational speed ===
+Total de outliers: 418
+Tasa de falla en outliers: 8.37 %
+Tasa de falla en valores normales: 3.17 %
+
+=== Torque ===
+Total de outliers: 69
+Tasa de falla en outliers: 89.86 %
+Tasa de falla en valores normales: 2.79 %

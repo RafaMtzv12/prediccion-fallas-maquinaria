@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+monitoreo.db*
+*.zip
+# Datasets pesados: solo se incluye el dataset final del proyecto
+data/*
+!data/ai4i2020.csv
+!data/explorar_ai4i.py
+app_prototipo.py

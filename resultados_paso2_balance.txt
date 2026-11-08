@@ -1,0 +1,9 @@
+Distribución de Machine failure:
+Machine failure
+0    9661
+1     339
+Name: count, dtype: int64
+
+Porcentaje de fallas: 3.39 %
+
+Gráfica guardada como paso2_boxplots_outliers.png

@@ -1,0 +1,47 @@
+Tamaño del dataset: (10000, 12)
+
+Tipos de datos:
+Type                       str
+Air temperature        float64
+Process temperature    float64
+Rotational speed         int64
+Torque                 float64
+Tool wear                int64
+Machine failure          int64
+TWF                      int64
+HDF                      int64
+PWF                      int64
+OSF                      int64
+RNF                      int64
+dtype: object
+
+¿Hay valores nulos/vacíos?
+Type                   0
+Air temperature        0
+Process temperature    0
+Rotational speed       0
+Torque                 0
+Tool wear              0
+Machine failure        0
+TWF                    0
+HDF                    0
+PWF                    0
+OSF                    0
+RNF                    0
+dtype: int64
+
+¿Hay filas duplicadas?
+0
+
+Estadísticas básicas:
+       Air temperature  Process temperature  ...           OSF          RNF
+count     10000.000000         10000.000000  ...  10000.000000  10000.00000
+mean        300.004930           310.005560  ...      0.009800      0.00190
+std           2.000259             1.483734  ...      0.098514      0.04355
+min         295.300000           305.700000  ...      0.000000      0.00000
+25%         298.300000           308.800000  ...      0.000000      0.00000
+50%         300.100000           310.100000  ...      0.000000      0.00000
+75%         301.500000           311.100000  ...      0.000000      0.00000
+max         304.500000           313.800000  ...      1.000000      1.00000
+
+[8 rows x 11 columns]
